@@ -1,0 +1,25 @@
+{
+    "name": "WhatsApp",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "BLE HID Control": "github:calliope-edu/pxt-blehid#bf4f062d3f8cb805c5020bc395a6a628e12c8e35"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.3",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
